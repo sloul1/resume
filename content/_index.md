@@ -1,6 +1,6 @@
 ---
-title: 'Home'
-date: 2023-10-24
+title: 'CV'
+date: 2025-01-17
 type: landing
 
 design:
@@ -39,7 +39,7 @@ sections:
 #      username: admin
 #  - block: awards
 #    content:
-#      title: Awards
+#      title: Projects
 #      username: admin
   - block: languages
     content:
