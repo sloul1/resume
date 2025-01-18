@@ -45,7 +45,7 @@ education:
     date_start: 2024-08-31
     date_end: 
     summary: |
-      Ongoing, estimated graduation 2028 / 07.  
+      Estimated graduation 2028 / 07.  
       Description at: [opintopolku.fi](https://opintopolku.fi/konfo/en/koulutus/1.2.246.562.13.00000000000000000193)
 #    button:
 #      text: 'Read Thesis'
@@ -79,7 +79,7 @@ work:
     date_end: '2023-11-01'
     summary: |2-
     Responsibilities include:
-      - strenghtening cyber security of development environment 
+      - strenghtening security of development environment 
       - documentation of WordPress site implementation
       - publishing a website from development to production
 
@@ -114,7 +114,17 @@ work:
     date_end:
     summary: |
       Assisting people with wide variety of challenges and/or disabilities to get by with their daily life.
-
+  - position: Multiple positions
+    company_name: in variety of companies
+#    company_url: ''
+#    company_logo: ''
+    date_start: 1988-06-11
+    date_end: 
+    summary: |
+      Others:
+      - Among others I have worked in the cultural, logistics, restaurant and property maintenance sectors.
+      - A total of over ten years of experience in the social sector and as a customer service representative.
+      
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
