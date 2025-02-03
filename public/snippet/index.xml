@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Snippets | Petri Heikkinen - Resume</title>
+    <link>http://localhost:1313/snippet/</link>
+      <atom:link href="http://localhost:1313/snippet/index.xml" rel="self" type="application/rss+xml" />
+    <description>Snippets</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_8dd1b4339ec8eb1c.png</url>
+      <title>Snippets</title>
+      <link>http://localhost:1313/snippet/</link>
+    </image>
+    
+    <item>
+      <title></title>
+      <link>http://localhost:1313/snippet/tech/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/snippet/tech/</guid>
+      <description>&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;&lt;strong&gt;Category&lt;/strong&gt;&lt;/th&gt;
+          &lt;th&gt;&lt;strong&gt;Technologies&lt;/strong&gt;&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Front-end frameworks&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Bulma, Tailwind CSS, Bootstrap&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Template engines&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Go Template, HTML templates&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Static site generators&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Hugo, Jekyll, Middleman&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Content management systems&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;WordPress, Ghost, Kirby&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Database management systems&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;MySQL, PostgreSQL, SQLite&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;Version control systems&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;Git, Mercurial, SVN&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

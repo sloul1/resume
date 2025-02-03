@@ -156,5 +156,8 @@
   </url><url>
     <loc>http://192.168.0.164:1313/event/work/</loc>
     <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://192.168.0.164:1313/tech/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>
