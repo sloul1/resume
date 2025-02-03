@@ -19,6 +19,9 @@ main:
   - name: Experience
     url: /#experience
     weight: 20
+  - name: Tech I Use
+    url: tech/
+    weight: 25
   - name: Languages
     url: /#languages
 #  - name: Projects

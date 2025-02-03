@@ -46,7 +46,7 @@ profiles:
 #  - Information Retrieval
 
 education:
-  - area: Bachelor of Engineering, Information and Communivations Technology 
+  - area: (ongoing, est. grad. 2028/07) Bachelor of Engineering, Information and Communivations Technology
     institution: Tampere University of Applied Sciences
     date_start: 2024-08-31
     date_end: 
@@ -127,7 +127,7 @@ work:
     date_start: 1999-07-01
     date_end:
     summary: |
-      I have designed, built and maintained my own (and some of my so called inner circle's) computer setups since the late 90's. In addition to this I've designed and carried out network installations, serviced or repaired countless devices including desktop, laptop, mini computers and handheld devices. Some of these procedures listed below:
+      I have designed, built, configured and maintained my own (and some of my so called inner circle's) computer setups since the late 90's. In addition to this I've designed and carried out network installations, serviced or repaired countless devices including desktop, laptop, mini computers and handheld devices. Some procedures of those  listed below:
 
       - **PC devices:** hdd/ssd, display panel, GPU, CPU etc. replacements
       
@@ -154,40 +154,80 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
+##skills:
+##  - name: Operating systems
+##    items:
+##      - name: Linux
+##      #  description: ''
+##      #  percent: 96
+##        icon: devicon/linux #code-bracket
+##      - name: Android
+##        description: ''
+##      #  percent: 100
+##        icon: devicon/android
+##      - name: Windows
+##        description: ''
+##      #  percent: 40
+##        icon: devicon/windows11
+##      - name: Mac OS
+##        description: ''
+##        icon: devicon/apple
+##
+##  - name: Programming
+##    color: '#eeac02'
+##    color_border: '#f0bf23'
+##    items:
+##      - name: C++
+##        description: ''
+##      #  percent: 60
+##        icon: devicon/cplusplus
+##      - name: C#
+##        description: ''
+##      #  percent: 100
+##        icon: devicon/csharp
+##      - name: Python
+##        description: '' 
+##        icon: devicon/python
+##      - name: HTML
+##        description: ''
+##        icon: devicon/html5
+##      - name: CSS
+##        description: ''
+##        icon: devicon/css3  
+##        
+##      - name: JavaScript
+##        description: ''
+##      #  percent: 80
+##        icon: devicon/javascript
+##  - name: Hosting
+##    color: '#eeac02'
+##    color_border: '#f0bf23'
+##    items:
+##      - name: GitHub Pages
+##        description: ''
+##      #  percent: 60
+##        icon: devicon/github
+##      - name: Cloudflare
+##        description: ''
+##      #  percent: 60
+##        icon: devicon/cloudflare
+##  - name: Virtualization
+##    color: '#eeac02'
+##    color_border: '#f0bf23'
+##    items:
+##      - name: Docker
+##        description: ''
+##      #  percent: 60
+##        icon: devicon/docker
 
+  - block: markdown
+    id: tech
+    content:
+      title: Section 1
+      subtitle: A subtitle
+      text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
 languages:
-  
+
   - name: Finnish
     percent: 100 
   - name: English
