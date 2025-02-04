@@ -9,7 +9,7 @@ sections:
   # A section to display blog posts
   - block: markdown
     id: tech
-    content:
+    content: 
       title: Some of the technologies I've got hands on experience with
       subtitle:
       text: |-
@@ -27,7 +27,7 @@ sections:
         
         #### Containerization / Virtualization
         - Proxmox, VMWare, Virtualbox
-        - Docker,
+        - Docker
         - Portainer, Kubernetes
         - virt-manager 
 
@@ -89,6 +89,7 @@ sections:
 
         #### VPN Tools
         - Tailscale, ZeroTier
+        - OpenVPN
       # Display content from the `content/post/` folder
     #  filters:
     #    folders:
